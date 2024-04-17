@@ -6,6 +6,7 @@
 }
 body{
     background: rgb(248, 240, 246);
+    font-family: 'Times New Roman', Times, serif;
 }
 p{
     text-align: center;
@@ -24,4 +25,37 @@ p{
     left: 0;
     bottom: 0;
     width: 100%;
+}
+a{
+    text-decoration: none;
+}
+.main{
+    color: rgb(11, 18, 42);
+    font-size: x-large;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    line-height: 2;
+    font-weight: bold;
+}
+.week1{
+    margin-top: 40px;
+    margin-left: 50px;
+    width: 100px;
+    height: 60px;
+    float: left;
+    text-align: left;
+    font-size: x-large;
+    border: 2px solid rgb(17, 16, 53);
+    background: rgb(205, 227, 243);
+}
+.week2{
+    margin-top: 40px;
+    margin-left: 55px;
+    width: 100px;
+    height: 60px;
+    float: left;
+    position: relative;
+    display: flex;
+    border: 2px solid rgb(17, 16, 53);
+    background: rgb(205, 227, 243);
 }
