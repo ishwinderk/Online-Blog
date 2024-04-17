@@ -1,9 +1,7 @@
-/*body{
-    background-image: url('/Gallery/peach.jpg');
-    background-size: cover;
-    background-repeat: no-repeat;
-    margin: 0;
-}*/
+body{
+    font-family: 'Times New Roman', Times, serif, sans-serif;
+    
+}
 #navbar {
     position: fixed;
     top: 0;  /* set top to 0 to cover from the top */
