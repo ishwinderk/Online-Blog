@@ -10,7 +10,7 @@ body {
 }
 
 h1 {
-    color: #10526c;
+    color: #0a3546;
     margin-bottom: 20px;
     border-bottom: 2px solid #10526c;
     padding-bottom: 5px;
@@ -22,7 +22,7 @@ p {
 }
 
 ul {
-    list-style-type: none;
+    list-style-type: circle;
     padding: 0;
 }
 
@@ -31,9 +31,9 @@ li {
 }
 
 a {
-    color: #145677;
+    color: #134e6b;
     text-decoration: none;
-    border-bottom: 1px solid #126396;
+    border-bottom: 1px solid #0e4d74;
     transition: border-bottom 0.2s ease;
 }
 
