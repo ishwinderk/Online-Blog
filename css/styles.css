@@ -59,3 +59,14 @@ a{
     border: 2px solid rgb(17, 16, 53);
     background: rgb(205, 227, 243);
 }
+.week3{
+    margin-top: 40px;
+    margin-left: 55px;
+    width: 100px;
+    height: 60px;
+    float: left;
+    position: relative;
+    display: flex;
+    border: 2px solid rgb(17, 16, 53);
+    background: rgb(205, 227, 243);
+}
