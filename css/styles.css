@@ -127,7 +127,7 @@ a{
 }
 .week9{
     margin-top: 50px;
-    margin-left: 150px;
+    margin-left: 107px;
     width: 100px;
     height: 60px;
     float: left;
@@ -159,6 +159,17 @@ a{
     background: rgb(205, 227, 243);
 }
 .week12{
+    margin-top: 50px;
+    margin-left: 55px;
+    width: 100px;
+    height: 60px;
+    float: left;
+    position: relative;
+    display: flex;
+    border: 2px solid rgb(17, 16, 53);
+    background: rgb(205, 227, 243);
+}
+.week13{
     margin-top: 50px;
     margin-left: 55px;
     width: 100px;
