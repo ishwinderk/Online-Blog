@@ -180,3 +180,36 @@ a{
     border: 2px solid rgb(17, 16, 53);
     background: rgb(205, 227, 243);
 }
+.week14{
+    margin-top: 50px;
+    margin-left: 55px;
+    width: 100px;
+    height: 60px;
+    float: left;
+    position: relative;
+    display: flex;
+    border: 2px solid rgb(17, 16, 53);
+    background: rgb(205, 227, 243);
+}
+.week15{
+    margin-top: 50px;
+    margin-left: 55px;
+    width: 100px;
+    height: 60px;
+    float: left;
+    position: relative;
+    display: flex;
+    border: 2px solid rgb(17, 16, 53);
+    background: rgb(205, 227, 243);
+}
+.week16{
+    margin-top: 50px;
+    margin-left: 55px;
+    width: 100px;
+    height: 60px;
+    float: left;
+    position: relative;
+    display: flex;
+    border: 2px solid rgb(17, 16, 53);
+    background: rgb(205, 227, 243);
+}
